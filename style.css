@@ -1,0 +1,53 @@
+body{
+background-color: rgb(201, 137, 137);
+color: black;
+align-items: center;
+}
+
+labelP{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20pt;
+    background-color: black;
+}
+
+div {
+align: center;
+}
+
+#uKey {
+    height: 50;
+    width: 50;
+}
+
+#dKey {
+    height: 50;
+    width: 50;
+}
+
+#lKey {
+    height: 50;
+    width: 50;
+}
+
+#rKey {
+    height: 50;
+    width: 50;
+}
+
+#sKey {
+    height: 50;
+    width: 50;
+}
+
+#armL{
+    height: 70;
+    width: 70;
+}
+
+video {
+    align-content: left;
+}
+
+#fat {
+    font-style: oblique;
+}
